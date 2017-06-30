@@ -1,4 +1,9 @@
+#I really really need to write some documentation on this.
+
+
 ﻿Import-Module 'C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\ConfigurationManager.psd1'
+
+
 
 Function writeHtmlHeader
 {
